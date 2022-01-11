@@ -2,6 +2,8 @@
 <img src="https://gradio.app/assets/img/logo.svg" width="400px">
 </p>
 
+This is a list of some wonderful demos & applications built with [Gradio](www.gradio.dev). Here's [how to contribute](https://github.com/gradio-app/awesome-demos/blob/main/CONTRIBUTING.md) yours!
+
 # awesome-demos
 
 | Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
