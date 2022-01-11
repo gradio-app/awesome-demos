@@ -90,5 +90,5 @@ This is a list of some wonderful demos & applications built with [Gradio](www.gr
 |   [Song Genre Predictor](https://huggingface.co/spaces/bharat-raghunathan/song-lyrics-classifier)                         |   Text     |      Label    |                 [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/bharat-raghunathan/song-lyrics-classifier.svg?label=demo%20status)](https://huggingface.co/spaces/bharat-raghunathan/song-lyrics-classifier)
 
 <p align="center"> 
-[![HitCount](http://hits.dwyl.com/gradio-app/awesome-demos.svg?style=flat-square)](http://hits.dwyl.com/gradio-app/awesome-demos)
+![HitCount](http://hits.dwyl.com/gradio-app/awesome-demos.svg?style=flat-square)](http://hits.dwyl.com/gradio-app/awesome-demos)
 </p>
