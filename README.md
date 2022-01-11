@@ -1,3 +1,7 @@
+<p align="center"> 
+<img src="https://gradio.app/assets/img/logo.svg" width="400px">
+</p>
+
 # awesome-demos
 
 | Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
