@@ -2,22 +2,62 @@
 <img src="https://gradio.app/assets/img/logo.svg" width="400px">
 </p>
 
+# awesome-demos
+
 This is a list of some wonderful demos & applications built with [Gradio](www.gradio.dev). Here's [how to contribute](https://github.com/gradio-app/awesome-demos/blob/main/CONTRIBUTING.md) yours!
 
-# awesome-demos
+## 🖊️ Natural language processing
+
+| Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
+|----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
+| [ruDALL-E](https://huggingface.co/spaces/anton-l/rudall-e)                            |    Text           |      Image          | [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/anton-l/rudall-e.svg?label=demo%20status)](https://huggingface.co/spaces/anton-l/rudall-e)                                         |
+|  [Mandarin Text-to-Speech (TTS)](https://huggingface.co/spaces/eugenesiow/mandarin-tts) |         Text      |       Audio         |     [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/eugenesiow/mandarin-tts.svg?label=demo%20status)](https://huggingface.co/spaces/eugenesiow/mandarin-tts)                                |
+|  [Multilingual Summarization model (MLSUM)](https://huggingface.co/spaces/mrm8488/summarizer_mlsum)                          |      Radio, Text          |  Text              |                     [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/mrm8488/summarizer_mlsum.svg?label=demo%20status)](https://huggingface.co/spaces/mrm8488/summarizer_mlsum)                                                                                                               |
+
+
+## 📷 Computer vision
+
+| Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
+|----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
+| [ruDALL-E](https://huggingface.co/spaces/anton-l/rudall-e)                            |    Text           |      Image          | [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/anton-l/rudall-e.svg?label=demo%20status)](https://huggingface.co/spaces/anton-l/rudall-e)         
+| [Animeganv2](https://huggingface.co/spaces/akhaliq/AnimeGANv2)                 | Image          | Image          | [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/akhaliq/AnimeGANv2.svg?label=demo%20status)](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
+|  [Bytetrack](https://huggingface.co/spaces/akhaliq/bytetrack)                         |  Image              |      Image          |  [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/akhaliq/bytetrack.svg?label=demo%20status)](https://huggingface.co/spaces/akhaliq/bytetrack)                                                                                                      |
+| [Anime Face Detector](https://huggingface.co/spaces/hysts/anime-face-detector-demo)                          |    Image, Slider            |    Image     |  [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/hysts/anime-face-detector-demo.svg?label=demo%20status)](https://huggingface.co/spaces/hysts/anime-face-detector-demo)                                                                                            |
+|  [super-image](https://huggingface.co/spaces/eugenesiow/super-image)                          |    Image, Radio, Dropdown            |      Image          |                            [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/eugenesiow/super-image.svg?label=demo%20status)](https://huggingface.co/spaces/eugenesiow/super-image)                                                                        |
+|      [Pet Breed Classifier](https://huggingface.co/spaces/tmabraham/fastai_pet_classifier)                      |     Image           |    Label            |                            [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/tmabraham/fastai_pet_classifier.svg?label=demo%20status)](https://huggingface.co/spaces/tmabraham/fastai_pet_classifier)                                                                             |
+
+
+
+## 🔬 Science
+
+| Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
+|----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
+| [MolDesigner](http://deeppurpose.sunlab.org/)                          |  Text, Image, Dropdown             |  Text              | [![demo status](https://img.shields.io/website-up-down-green-red/http/deeppurpose.sunlab.org.svg?label=demo%20status)](http://deeppurpose.sunlab.org/) 
+
+
+## 💊 Medicine
+
+| Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
+|----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
+|  [Echocardiogram-Segmentation](https://huggingface.co/spaces/abidlabs/Echocardiogram-Segmentation)                          |      Image          |     Image           |           [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/abidlabs/Echocardiogram-Segmentation.svg?label=demo%20status)](https://huggingface.co/spaces/abidlabs/Echocardiogram-Segmentation)                                                                                                                                                             |
+
+
+
+## 🎵 Audio processing
+
+| Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
+|----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
+|  [Mandarin Text-to-Speech (TTS)](https://huggingface.co/spaces/eugenesiow/mandarin-tts) |         Text      |       Audio         |     [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/eugenesiow/mandarin-tts.svg?label=demo%20status)](https://huggingface.co/spaces/eugenesiow/mandarin-tts)                                |
+
+
+## 🤗 Fun
 
 | Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
 |----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
  [Animeganv2](https://huggingface.co/spaces/akhaliq/AnimeGANv2)                 | Image          | Image          | [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/akhaliq/AnimeGANv2.svg?label=demo%20status)](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
-| [ruDALL-E](https://huggingface.co/spaces/anton-l/rudall-e)                            |    Text           |      Image          | [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/anton-l/rudall-e.svg?label=demo%20status)](https://huggingface.co/spaces/anton-l/rudall-e)                                         |
-| [MolDesigner](http://deeppurpose.sunlab.org/)                          |  Text, Image, Dropdown             |  Text              | [![demo status](https://img.shields.io/website-up-down-green-red/http/deeppurpose.sunlab.org.svg?label=demo%20status)](http://deeppurpose.sunlab.org/)                                                     |
-|  [Bytetrack](https://huggingface.co/spaces/akhaliq/bytetrack)                         |  Image              |      Image          |  [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/akhaliq/bytetrack.svg?label=demo%20status)](https://huggingface.co/spaces/akhaliq/bytetrack)                                                                                                      |
 | [Anime Face Detector](https://huggingface.co/spaces/hysts/anime-face-detector-demo)                          |    Image, Slider            |    Image     |  [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/hysts/anime-face-detector-demo.svg?label=demo%20status)](https://huggingface.co/spaces/hysts/anime-face-detector-demo)                                                                                            |
-|  [Mandarin Text-to-Speech (TTS)](https://huggingface.co/spaces/eugenesiow/mandarin-tts) |         Text      |       Audio         |     [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/eugenesiow/mandarin-tts.svg?label=demo%20status)](https://huggingface.co/spaces/eugenesiow/mandarin-tts)                                |
-|  [Echocardiogram-Segmentation](https://huggingface.co/spaces/abidlabs/Echocardiogram-Segmentation)                          |      Image          |     Image           |           [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/abidlabs/Echocardiogram-Segmentation.svg?label=demo%20status)](https://huggingface.co/spaces/abidlabs/Echocardiogram-Segmentation)                                                                                                                                                             |
-|  [super-image](https://huggingface.co/spaces/eugenesiow/super-image)                          |    Image, Radio, Dropdown            |      Image          |                            [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/eugenesiow/super-image.svg?label=demo%20status)](https://huggingface.co/spaces/eugenesiow/super-image)                                                                        |
-|      [Pet Breed Classifier](https://huggingface.co/spaces/tmabraham/fastai_pet_classifier)                      |     Image           |    Label            |                            [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/tmabraham/fastai_pet_classifier.svg?label=demo%20status)](https://huggingface.co/spaces/tmabraham/fastai_pet_classifier)                                                                             |
-|  [Multilingual Summarization model (MLSUM)](https://huggingface.co/spaces/mrm8488/summarizer_mlsum)                          |      Radio, Text          |  Text              |                     [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/mrm8488/summarizer_mlsum.svg?label=demo%20status)](https://huggingface.co/spaces/mrm8488/summarizer_mlsum)                                                                                                               |
+
+
 |  [News Summarizer](https://huggingface.co/spaces/Alifarsi/news_summarizer)                        |    Text            |    Text            |    [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/Alifarsi/news_summarizer.svg?label=demo%20status)](https://huggingface.co/spaces/Alifarsi/news_summarizer)                          |
 |    [KoGPT](https://huggingface.co/spaces/akhaliq/kogpt)                        |       Text         |      Text          |          [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/akhaliq/kogpt.svg?label=demo%20status)](https://huggingface.co/spaces/akhaliq/kogpt)                                          |
 |   [Sentiment Histogram For Turkish](https://huggingface.co/spaces/savasy/SentimentHistogramForTurkish)                         |   Text             |    Image            |            [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/savasy/SentimentHistogramForTurkish.svg?label=demo%20status)](https://huggingface.co/spaces/savasy/SentimentHistogramForTurkish)                                                                                          |
