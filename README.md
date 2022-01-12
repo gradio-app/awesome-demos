@@ -73,7 +73,7 @@ This is a list of some wonderful demos & applications built with [Gradio](www.gr
 |  [Demucs](https://huggingface.co/spaces/akhaliq/demucs)                          |     Audio           |   Audio             |      [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/akhaliq/demucs.svg?label=demo%20status)](https://huggingface.co/spaces/akhaliq/demucs)                                                    |
 |   [XLS-R 2B 22-to-16 Speech Translation](https://huggingface.co/spaces/facebook/XLS-R-2B-22-16)                         |     Audio, Dropdown        |       Text      |                [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/facebook/XLS-R-2B-22-16.svg?label=demo%20status)](https://huggingface.co/spaces/facebook/XLS-R-2B-22-16)
 |   [Song Genre Predictor](https://huggingface.co/spaces/bharat-raghunathan/song-lyrics-classifier)                         |   Text     |      Label    |                 [![demo status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/bharat-raghunathan/song-lyrics-classifier.svg?label=demo%20status)](https://huggingface.co/spaces/bharat-raghunathan/song-lyrics-classifier)
-
+|   [YourTTS](https://coqui.ai/)                         |   Audio, Dropdown, Textbox    |   Audio      |                 [![demo status](https://img.shields.io/website-up-down-green-red/https/coqui.ai/.svg?label=demo%20status)](https://coqui.ai/)
 
 ## 🔢 Math
 
