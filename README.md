@@ -78,6 +78,14 @@ This is a list of some wonderful demos & applications built with [Gradio](www.gr
 
 
 
+## 📈 Tabular Data & Plots
+
+| Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
+|----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
+|   [2022 Weather Data](https://huggingface.co/spaces/lhg99/gradio-demo)                           |     Dropdown, CheckboxGroup, Radio, Checkbox           |      Dataframe, Plot          |                 [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioframe/lhg99/gradio-demo/+.svg?label=demo%20status)](https://huggingface.co/spaces/lhg99/gradio-demo)
+
+
+
 ## 💊 Medicine
 
 | Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
