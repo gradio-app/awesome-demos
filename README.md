@@ -84,6 +84,12 @@ This is a list of some wonderful demos & applications built with [Gradio](www.gr
 |----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
 |  [Weather Data & Graph in 2022](https://huggingface.co/spaces/lhg99/gradio-demo)                         |          Dropdown, Checkbox,<br> Radio, CheckboxGroup           |  Dataframe, Plot           |                 [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioframe/lhg99/gradio-demo/+.svg?label=demo%20status)](https://huggingface.co/spaces/lhg99/gradio-demo)                                                                             |
 
+## 🌏 Remote Sensing
+
+| Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
+|----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
+|  [Segment-RS](https://huggingface.co/spaces/JunchuanYu/SegRS)                         |          Image, Radio,Slider           |  Image           |                 [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/JunchuanYu/SegRS/regression_transformer/+.svg?label=demo%20status)](https://huggingface.co/spaces/JunchuanYu/SegRS)                                                                       |
+|  [RS-Tile-Creator](https://huggingface.co/spaces/JunchuanYu/RS-Tile-Creator)                         |          Image, Radio, Slider, Number, Text           |  Image, Text           |                 [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/JunchuanYu/RS-Tile-Creator/regression_transformer/+.svg?label=demo%20status)](https://huggingface.co/spaces/JunchuanYu/RS-Tile-Creator)        
 
 
 ## 💊 Medicine
