@@ -31,6 +31,14 @@ This is a list of some wonderful demos & applications built with [Gradio](www.gr
 | [GT4SD - HuggingFace Transformers](https://huggingface.co/spaces/GT4SD/hf-transformers)                          |  Text, Dropdown             |  Text              | [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioiframe/GT4SD/hf-transformers/+.svg?label=demo%20status)](https://huggingface.co/spaces/GT4SD/hf-transformers)
 
 
+## 📂 Data/file manipulation
+
+| Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                                                         |
+|----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
+| [GGUF Editor](https://huggingface.co/spaces/CISCai/gguf-editor) | FileExplorer, LoginButton, Dropdown, Textbox  | Dataframe, HighlightedText, Button | [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioiframe/CISCai/gguf-editor/+.svg?label=demo%20status)](https://huggingface.co/spaces/CISCai/gguf-editor) |
+| [AudioFusion](https://huggingface.co/spaces/zarox/AudioFusion) | Audio, Slider | Audio | [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioiframe/zarox/AudioFusion/+.svg?label=demo%20status)]([https://coqui.ai/](https://huggingface.co/spaces/zarox/AudioFusion)) |
+
+
 ## 📷 Computer vision
 
 | Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
