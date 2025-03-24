@@ -85,10 +85,6 @@ This is a list of some wonderful demos & applications built with [Gradio](www.gr
 
 | Demo name (link to demo)   | input type(s)  | output type(s) | status badge                                                           |
 |----------------------------|----------------|----------------|------------------------------------------------------------------------------------------------------|
-|  [Mandarin Text-to-Speech (TTS)](https://huggingface.co/spaces/eugenesiow/mandarin-tts) |         Text      |       Audio         |     [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioiframe/eugenesiow/mandarin-tts/+.svg?label=demo%20status)](https://huggingface.co/spaces/eugenesiow/mandarin-tts)                                |
-|  [Demucs](https://huggingface.co/spaces/akhaliq/demucs)                          |     Audio           |   Audio             |      [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioiframe/akhaliq/demucs/+.svg?label=demo%20status)](https://huggingface.co/spaces/akhaliq/demucs)                                                    |
-|   [XLS-R 2B 22-to-16 Speech Translation](https://huggingface.co/spaces/facebook/XLS-R-2B-22-16)                         |     Audio, Dropdown        |       Text      |                [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioiframe/facebook/XLS-R-2B-22-16/+.svg?label=demo%20status)](https://huggingface.co/spaces/facebook/XLS-R-2B-22-16)
-|   [YourTTS](https://coqui.ai/)                         |   Audio, Dropdown, Textbox    |   Audio      |                 [![demo status](https://img.shields.io/website-up-down-green-red/https/coqui.ai.svg?label=demo%20status)](https://coqui.ai/)
 |   [AudioFusion](https://huggingface.co/spaces/zarox/AudioFusion)                         |   Audio, Slider    |   Audio      |                 [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioiframe/zarox/AudioFusion/+.svg?label=demo%20status)]([https://coqui.ai/](https://huggingface.co/spaces/zarox/AudioFusion))
 
 ## 🔢 Math
