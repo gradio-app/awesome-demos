@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://gradio.app/assets/img/logo.svg" width="400px">
+<img src="gradio.svg" width="400px">
 </p>
 
 # awesome-demos
